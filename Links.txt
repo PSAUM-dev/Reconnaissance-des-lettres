@@ -1,0 +1,32 @@
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/PSAUM-dev/lagrue.git
+git push -u origin main
+
+######## A C T I V I T E S ########
+
+- Chien []
+- Connaissance des mots [OK]
+- Matching Images Scene []
+- Copie des mots []
+- Apprentissage Syllabes [OK]
+- Grue [OK]
+- Ecriture Lettres [OK]
+- PaperPlane [OK]
+- School Bus [OK]
+
+######## L I N K S ########
+
+[Lecture]
+https://psaum-dev.github.io/connaissance-mots/
+https://psaum-dev.github.io/apprentissage-syllables/
+
+[Ecriture]
+https://psaum-dev.github.io/ecriture-des-lettres/
+
+[Calculs]
+https://psaum-dev.github.io/schoolbus/
+https://psaum-dev.github.io/paperplane/
+https://psaum-dev.github.io/lagrue/
